@@ -4,6 +4,6 @@ module.exports = {
         user_alr_exists: 'This user already exist.'
     },
     success_message: {
-        signup: 'Sign up successful.'
+        signup: 'Sign up successful.',
     }
 }
